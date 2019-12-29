@@ -15,3 +15,5 @@ console.log(firstName);
 console.log(lastName);
 
 ```
+
+https://www.codewars.com/kata/simple-multiplication/train/javascript
