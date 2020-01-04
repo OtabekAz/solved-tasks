@@ -17,3 +17,10 @@ console.log(lastName);
 ```
 
 https://www.codewars.com/kata/simple-multiplication/train/javascript
+
+```javascript
+function greet() {
+  return ("hello world!");
+}
+console.log(greet());
+```
